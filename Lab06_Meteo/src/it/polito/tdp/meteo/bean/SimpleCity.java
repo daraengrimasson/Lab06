@@ -1,7 +1,9 @@
 package it.polito.tdp.meteo.bean;
 
 public class SimpleCity {
-
+	/**
+	 * citta da aggiungere ad ogni passo della ricorsione
+	 */
 	private String nome;
 	private int costo;
 	

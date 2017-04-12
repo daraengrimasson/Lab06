@@ -3,7 +3,9 @@ package it.polito.tdp.meteo.bean;
 import java.util.List;
 
 public class Citta {
-
+	/**
+	 * dentro questa classe salvo gli attributi proprie della citta
+	 */
 	private String nome;
 	private List<Rilevamento> rilevamenti;
 	private int counter = 0;
